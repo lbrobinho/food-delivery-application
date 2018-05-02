@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="order-service" />
+        <module name="order-updater-service" />
+        <module name="order_complete_updater" />
+        <module name="restaurant-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="food-deliver-application" target="1.6" />
+      <module name="food-delivery-application" target="1.8" />
+      <module name="food-delivery-eureka-server" target="1.8" />
+      <module name="food-ordering-hystrix-dashboard" target="1.6" />
+      <module name="hystirx-dashboard" target="1.8" />
+      <module name="hystrix-dashboard" target="1.5" />
+      <module name="order-complete-updater" target="1.8" />
+      <module name="order-service" target="1.8" />
+      <module name="order-updater-service" target="1.8" />
+      <module name="order_complete_updater" target="1.8" />
+      <module name="platform" target="1.8" />
+      <module name="restaurant-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="restaurant-service-1.0.0.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/restaurant-service-1.0.0.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
