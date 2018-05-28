@@ -1,9 +1,0 @@
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/respository/OrderRepository.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/rest/OrderRestApi.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/domain/Order.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/service/OrderService.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/OrderServiceApp.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/domain/UserInfo.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/domain/AddressInfo.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/service/impl/OrderServiceImpl.java
-/home/vagrant/workspace/food-delivery-application/order-service/src/main/java/com/Bo/domain/MenuItem.java

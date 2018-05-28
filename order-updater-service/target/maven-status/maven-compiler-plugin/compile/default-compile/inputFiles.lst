@@ -1,7 +1,0 @@
-/home/vagrant/workspace/food-delivery-application/order-updater-service/src/main/java/com/Bo/OrderCompleteUpdater.java
-/home/vagrant/workspace/food-delivery-application/order-updater-service/src/main/java/com/Bo/rest/OrderCompleteUpdaterRestApi.java
-/home/vagrant/workspace/food-delivery-application/order-updater-service/src/main/java/com/Bo/rest/WebSocketApi.java
-/home/vagrant/workspace/food-delivery-application/order-updater-service/src/main/java/com/Bo/domain/Order.java
-/home/vagrant/workspace/food-delivery-application/order-updater-service/src/main/java/com/Bo/domain/UserInfo.java
-/home/vagrant/workspace/food-delivery-application/order-updater-service/src/main/java/com/Bo/domain/MenuItem.java
-/home/vagrant/workspace/food-delivery-application/order-updater-service/src/main/java/com/Bo/WebSocketConfig.java

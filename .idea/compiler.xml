@@ -7,9 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="food-ordering-hystrix-dashboard" />
+        <module name="order-complete-updater" />
         <module name="order-service" />
-        <module name="order-updater-service" />
         <module name="order_complete_updater" />
+        <module name="payment-distribution" />
+        <module name="payment-service" />
         <module name="restaurant-service" />
       </profile>
     </annotationProcessing>
@@ -24,8 +27,10 @@
       <module name="hystrix-dashboard" target="1.5" />
       <module name="order-complete-updater" target="1.8" />
       <module name="order-service" target="1.8" />
-      <module name="order-updater-service" target="1.8" />
+      <module name="order-updater-service" target="1.5" />
       <module name="order_complete_updater" target="1.8" />
+      <module name="payment-distribution" target="1.8" />
+      <module name="payment-service" target="1.8" />
       <module name="platform" target="1.8" />
       <module name="restaurant-service" target="1.8" />
     </bytecodeTargetLevel>

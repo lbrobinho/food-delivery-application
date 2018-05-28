@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="food-ordering-hystrix-dashboard-0.0.1.BUILD-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/platform/hystrix-dashboard/target/food-ordering-hystrix-dashboard-0.0.1.BUILD-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

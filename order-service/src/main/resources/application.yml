@@ -2,6 +2,4 @@ server:
   port: 8002
 spring:
   application:
-    name: order-service
-URL:
-  restaurant-service: http://localhost:8001
+    name: ordering-service

@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/food-delivery-application.iml" filepath="$PROJECT_DIR$/food-delivery-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/hystrix-dashboard/food-ordering-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/platform/hystrix-dashboard/food-ordering-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-complete-updater/order-complete-updater.iml" filepath="$PROJECT_DIR$/order-complete-updater/order-complete-updater.iml" />
       <module fileurl="file://$PROJECT_DIR$/order-service/order-service.iml" filepath="$PROJECT_DIR$/order-service/order-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/order-updater-service/order-updater-service.iml" filepath="$PROJECT_DIR$/order-updater-service/order-updater-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-distribution/payment-distribution.iml" filepath="$PROJECT_DIR$/payment-distribution/payment-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment-service/payment-service.iml" filepath="$PROJECT_DIR$/payment-service/payment-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/restaurant-service/restaurant-service.iml" filepath="$PROJECT_DIR$/restaurant-service/restaurant-service.iml" />
     </modules>
   </component>
