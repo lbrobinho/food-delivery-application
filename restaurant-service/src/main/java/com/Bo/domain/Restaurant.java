@@ -35,7 +35,7 @@ public class Restaurant {
                        @JsonProperty("address") String address) {
         this.name = name;
         this.phoneNumber = Long.parseLong(phoneNumber);
-        this.address = addressf;
+        this.address = address;
     }
 
     public void addMenu(Menu menu) {
